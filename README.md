@@ -47,7 +47,7 @@ Logs into SauceDemo with the standard user credentials.
 
 ---
 
-## ✨ Author's Reflection
+## ✨ My Reflection
 
 > Refactoring this project helped me improve the test structure and bring the automation closer to real user behavior.  
 > Adding verification steps and better logging makes the tests more robust and maintainable.
